@@ -41,7 +41,7 @@ It features a minimalist design, local storage for saved bookmarks, and static l
 ## Deployment
 
 Hosted on Vercel  
-**Live Link**: https://link-saver-ai.vercel.app/
+**Live Link**: https://link-saver-vsamarnathoffls-projects.vercel.app/
 
 ---
 
