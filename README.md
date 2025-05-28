@@ -20,12 +20,18 @@ It features a minimalist design, local storage for saved bookmarks, and static l
 - **React Markdown** (to display formatted summaries)
 - **localStorage** (for client-side data persistence)
 - **Vercel** (for deployment)
+---
+## Screenshots
+
+### Login
+
+![login.png](https://i.postimg.cc/FR2NcGXk/login.png)
+
+### Bookmark view
+
+![bookmark.png](https://i.postimg.cc/G3Qc7PRY/bookmark.png)
 
 ---
-
-
----
-
 ## Features
 
 - **Static Auth**: Simple login using predefined credentials.
@@ -38,6 +44,46 @@ It features a minimalist design, local storage for saved bookmarks, and static l
 
 ---
 
+## Setup Instructions
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/vsamarnathoffl/link-saver.git
+cd link-saver
+```
+2. **Clone the Repository**
+```bash
+npm install
+```
+3. **Run the App Locally**
+```bash
+npm run dev
+```
+4. **Open in Browser**: Visit `http://localhost:3000`
+---
+## Time Spent Breakdown
+```
+| Task                          | Duration     |
+|-------------------------------|--------------|
+| Project setup + basic routing | 1 hour       |
+| Login system & static auth    | 1 hour       |
+| Bookmark & localStorage logic | 1.5 hours    |
+| Jina AI API integration       | 1.5 hours    |
+| Styling with Tailwind         | 1.5 hours    |
+| UI polishing & responsiveness | 1 hour       |
+| Testing & bug fixing          | 1 hour       |
+| Total                         | 8.5 hours    |
+```
+---
+## Future Improvements
+
+- Add user registration and secure authentication
+- Use a backend database for persistent storage
+- Improve error handling and loading states
+- Add pagination for bookmarks
+- Implement search functionality
+---
 ## Deployment
 
 Hosted on Vercel  
