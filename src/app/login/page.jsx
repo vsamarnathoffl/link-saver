@@ -7,7 +7,6 @@ export default function Login() {
   const router = useRouter();
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
-  const [error, setError] = useState("");
 
   useEffect(() => {
     if (localStorage.getItem("token")) {
@@ -57,7 +56,7 @@ export default function Login() {
           type="submit"
           className="w-full bg-blue-600 text-white p-2 rounded hover:bg-blue-700 transition cursor-pointer"
         >
-          Login
+          Sign In
         </button>
       </form>
     </div>
