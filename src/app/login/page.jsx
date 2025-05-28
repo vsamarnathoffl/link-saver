@@ -35,7 +35,6 @@ export default function Login() {
         className="bg-gray-900 p-6 rounded shadow-md w-full max-w-sm text-white"
       >
         <h1 className="text-2xl font-bold mb-4 text-center text-blue-400">Sign In</h1>
-        {error && <div className="text-red-400 mb-3 text-center">{error}</div>}
         <input
           type="email"
           placeholder="Email"
