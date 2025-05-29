@@ -110,7 +110,7 @@ My resume is available publicly in a separate repository as required:
 
 - **Full Name**: Veerabhadra Sai Amarnath Amudalapalli  
 - **Email**: vsamarnathofficial@gmail.com  
-- **LinkedIn**: [https://www.linkedin.com/in/vsamarnathoffl](https://www.linkedin.com/in/vsamarnathoffl)
+- **LinkedIn**: [https://www.linkedin.com/in/avs-amarnath/](https://www.linkedin.com/in/avs-amarnath/)
 
 ---
 
